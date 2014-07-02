@@ -1,0 +1,19 @@
+{
+  "name": "rnr-constrained-route",
+  "version": "0.0.1",
+  "description": "Constrained route mixin for react-nested-router",
+  "main": "constrainable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjyoungblood/rnr-constrained-route.git"
+  },
+  "author": "Ben Youngblood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjyoungblood/rnr-constrained-route/issues"
+  },
+  "homepage": "https://github.com/bjyoungblood/rnr-constrained-route"
+}
