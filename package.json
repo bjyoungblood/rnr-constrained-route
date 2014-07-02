@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bjyoungblood/rnr-constrained-route/issues"
   },
-  "homepage": "https://github.com/bjyoungblood/rnr-constrained-route"
+  "homepage": "https://github.com/bjyoungblood/rnr-constrained-route",
+  "peerDependencies": {
+    "react-nested-router": "^0.2.0"
+  }
 }
