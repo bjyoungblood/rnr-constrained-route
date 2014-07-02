@@ -3,10 +3,17 @@ RNR Constrained Route
 
 Constrained route mixin for react-nested-router.
 
+Install
+=======
+
+`npm install --save rnr-constrained-route`
+
 Usage
 =====
 
 ```javascript
+var Constrainable = require('rnr-constrained-route');
+
 var UserEditHandler = React.createClass({
   mixins      : [ Constrainable ],
 
