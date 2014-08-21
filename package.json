@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bjyoungblood/rnr-constrained-route",
   "peerDependencies": {
-    "react-router": "0.4.x"
+    "react-router": "^0.4.0"
   }
 }
