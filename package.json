@@ -1,6 +1,6 @@
 {
   "name": "rnr-constrained-route",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Constrained route mixin for react-nested-router",
   "main": "constrainable.js",
   "scripts": {
