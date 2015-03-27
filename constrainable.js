@@ -9,6 +9,7 @@ function isRegExp(val) {
 var Constrainable = {
   statics: {
     willTransitionTo : function(transition, params) {
+      if (!this.validatePath || !this.validateParams) return;
       if (!this.validatePath(transition.path) || !this.validateParams(params)) {
         transition.redirect(this.redirectTo);
       }
